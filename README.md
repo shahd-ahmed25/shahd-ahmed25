@@ -1,12 +1,19 @@
 # 👩‍💻 My First C++ Project on GitHub
 
-```cpp
-#include <iostream>
+`# Shahd Ahmed 👋
 
-int main() {
-    std::cout << "I'm Shahd Ahmed" << std::endl;
-    std::cout << "I'm an IT student at Minia University, Faculty of Science" << std::endl;
-    std::cout << "I am practicing problem solving every day to improve my skills! 💻✨" << std::endl;
-    
-    return 0;
-}
+### 🎓 Education
+- **University:** Minia University, Faculty of Science.
+- **Major:** Information Technology (IT).
+
+### 💻 My Learning Journey
+- 🔭 I am currently practicing **C++** and **Problem Solving**.
+- 📚 Learning at **Coursera** and following **Microsoft Learn** paths.
+- ✨ Goal: To build a strong foundation in Software Development.
+
+### 🛠️ Skills
+- **Programming Languages:** C++
+- **Tools:** Git & GitHub
+
+---
+*“I am practicing coding every day to improve my skills!”* 💻✨
