@@ -1,5 +1,3 @@
-# 👩‍💻 My First Code on GitHub
-
 # Hi, I'm Shahd Ahmed 👋
 
 ### 🎓 Education
