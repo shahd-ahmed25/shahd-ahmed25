@@ -1,6 +1,6 @@
-# 👩‍💻 My First C++ Project on GitHub
+# 👩‍💻 My First Code on GitHub
 
-`# Shahd Ahmed 👋
+# Hi, I'm Shahd Ahmed 👋
 
 ### 🎓 Education
 - **University:** Minia University, Faculty of Science.
